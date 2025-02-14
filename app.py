@@ -33,7 +33,7 @@ def healthcare_chatbot(user_input):
 # Streamlit web app interface
 def main():
     # Set up the web app title and input area
-    st.title("Healthcare Assistant Chatbot")
+    st.title("Healthcare Chatbot AI")
     
     # Display a simple text input for user queries
     user_input = st.text_input("How can I assist you today?", "")
